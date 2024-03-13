@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n33vb4k
 - 👀 I’m interested in ... Full stack development
-- 🌱 I’m currently learning ... C#, python, Haskell, C
+- 🌱 I’m currently learning ... C#, python, Haskell, C, Java
 - 📫 How to reach me ... bakshi.neev@gmail.com
 
 <!---
