@@ -1,5 +1,7 @@
 # Hey, I'm Neev
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&vCenter=true&width=500&lines=building+agents;automating+boring+things;probably+writing+Python)](https://github.com/n33vb4k)
+
 CS & AI student at the University of Bath, based in London. Mostly writing Python, mostly building agents and automating things that shouldn't need a human.
 
 Currently into:
