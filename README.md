@@ -9,6 +9,6 @@ Currently into:
 - Reinforcement learning, NLP and Bayesian ML (final-year modules)
 - Side projects that save me time
 
-**Usually working in:** Python · TypeScript · Rust · C#
+**Usually working in:** Python · Java · Rust · C#
 
 [LinkedIn](https://www.linkedin.com/in/neev-bakshi/) · [Email](mailto:bakshi.neev@gmail.com)
